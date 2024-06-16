@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "aula",
   "version": "1.0.0",
   "main": "index.js",
@@ -9,4 +10,24 @@
   "author": "",
   "license": "ISC",
   "description": ""
+=======
+  "name": "meu-primeiro-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "open":"echo \"olá mundo\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guedesgabii/nodefundamentals.git"
+  },
+  "author": "Gabriele Guedes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guedesgabii/nodefundamentals/issues"
+  },
+  "homepage": "https://github.com/guedesgabii/nodefundamentals#readme",
+  "description": "My first project"
+>>>>>>> 718caa460422395bcb729aad1b41a1231a0979f0
 }
